@@ -1,0 +1,8 @@
+-- does not play well with alacritty
+--
+-- require('lualine').setup {
+-- 	options = {
+-- 		icon_enabled = true,
+-- 		theme = 'horizon' 
+-- 	}
+-- }
